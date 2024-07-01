@@ -1,3 +1,3 @@
-import ChatInput from './ChatInput.jsx'
+import ChatHistory from './ChatHistory.jsx'
 
-export default ChatInput;
+export default ChatHistory;
